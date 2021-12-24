@@ -1,0 +1,15 @@
+.search-bar {
+    margin: 2rem;
+}
+
+.search-title {
+    text-align: center;
+}
+
+#search-bar-form {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 40%;
+}
